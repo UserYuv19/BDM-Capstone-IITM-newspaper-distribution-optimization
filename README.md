@@ -15,7 +15,7 @@ It focuses on transforming the operations of **S.K. Newspaper Mart**, a local B2
 ## 📊 Datasets
 - **Customer Master Data** *(not shared due to privacy)*  
 - **Daily Delivery Logs** *(not shared due to privacy)*  
-- **Route & Fuel Logs** *(uploaded in this repo under `/data`)*  
+- **Route & Fuel Logs** *(uploaded in this repo )*  
 
 ⚠️ Note: Only the **Route & Fuel Logs** are included here. Other datasets contain sensitive customer information and are therefore excluded.
 
